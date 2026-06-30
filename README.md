@@ -24,4 +24,4 @@ using pure VBA — no Power BI, no Python, no plugins needed.
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
