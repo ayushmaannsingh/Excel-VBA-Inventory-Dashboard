@@ -7,8 +7,8 @@ using pure VBA — no Power BI, no Python, no plugins needed.
 ---
 
 ## 🖼️ Dashboard Preview
-> Add your screenshot here
-![Dashboard Preview](screenshot.png)
+<img width="1372" height="731" alt="Screenshot 2026-06-30 140557" src="https://github.com/user-attachments/assets/581e34d7-28d8-4754-975a-f65fc1afe80a" />
+
 
 ---
 
