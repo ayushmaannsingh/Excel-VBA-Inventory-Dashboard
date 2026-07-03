@@ -25,3 +25,9 @@ using pure VBA — no Power BI, no Python, no plugins needed.
 ---
 
 ## 📁 Project Structure 
+Excel-VBA-Inventory-Dashboard/
+│
+├── InventoryDashboard.bas     # Main VBA module
+├── Sample_Data.xlsx           # Sample inventory data file
+├── screenshot.png             # Dashboard preview image
+└── README.md                  # Project documentation
